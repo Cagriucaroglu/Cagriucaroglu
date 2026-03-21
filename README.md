@@ -22,5 +22,5 @@ RabbitMQ, ElasticSearch, Docker
 - AI-Based Chess Move Recognition System
 
 ## 📫 Contact
-- GitHub: https://github.com/Cagriucaroglu
+- Linkedn: https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-u%C3%A7aro%C4%9Flu-b0a439236/
 - Email: cagriucaroglu@gmail.com
